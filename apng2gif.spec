@@ -2,7 +2,7 @@ Summary:	Convert APNG animations into animated GIF format
 Summary(pl.UTF-8):	Konwerter animacji APNG do animowanego formatu GIF
 Name:		apng2gif
 Version:	1.8
-Release:	1
+Release:	2
 License:	Zlib (BSD-like)
 Group:		Applications/Graphics
 Source0:	http://downloads.sourceforge.net/apng2gif/%{name}-%{version}-src-only.zip
